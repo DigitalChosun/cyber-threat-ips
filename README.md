@@ -1,6 +1,6 @@
 # Malicious IP List
 
-This repository shares a list of malicious IP addresses confirmed by our company's internal security monitoring and analysis.  
+This repository shares a list of malicious IP addresses confirmed by internal security monitoring and analysis of DigitalChosun.
 The goal is to help other security teams, researchers, and system administrators block or monitor these IPs to improve overall cyber defense.
 
 ## Purpose
